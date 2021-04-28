@@ -14,6 +14,7 @@
     mv fluxctl /usr/bin/
     fluxctl version
 # Install FluxCD or Flux Operator:
+
   Create the flux namespace:
     
     kubectl create ns springboot
